@@ -1,0 +1,49 @@
+.index-point {
+    width: 25px;
+    height: 25px;
+    background-color: #dad5d2;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+}
+
+.index-point-active {
+    background-color: #ee100d;
+}
+
+.person-shoutout {
+    height: 200px;
+}
+.pplContainer {
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+    border-radius: 5px;
+    text-align: center;
+    width: 221px;
+    height: 136px;
+    padding: 10px;
+    border: 2px blue solid;
+    background-color: gray;
+}
+#person0 {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    text-align: center;
+    width: 221px;
+    height: 136px;
+    padding: 10px;
+    border: 2px blue solid;
+    background-color: pink;
+}
+button {
+    height: auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    -moz-box-shadow: 35px 44px 47px 21px rgba(70,70,71,1);
+    box-shadow: 24px 29px 57px 11px rgba(70,70,71,1);
+}
+
+}
